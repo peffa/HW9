@@ -1,0 +1,19 @@
+{
+  "name": "good-readme-generator",
+  "version": "1.0.0",
+  "description": "Creates a command-line application that generates a README.md from user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repo": {
+    "type": "git",
+    "url": "git+https://github.com/peffa/HW9.git"
+  },
+  "author": "Ryan Peffer",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "inquirer": "^6.3.1"
+  }
+}
