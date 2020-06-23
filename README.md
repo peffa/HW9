@@ -108,9 +108,9 @@ You are required to submit the following:
 
 2 Shows user input generated README.
 
-![](Develop/demo/hw91.png)
+![](Develop/demo/hw91.PNG)
 
 
 3 Shows preview of user input generated README.
 
-![](Develop/demo/hw92.png)
+![](Develop/demo/hw92.PNG)
