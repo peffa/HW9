@@ -99,28 +99,18 @@ You are required to submit the following:
 
 ~
 
-## Picture Demonstration
+## Demonstration
 
 1 Shows user input list choice.
 
- ![](Develop/pictures/1HW9userinputshowslistchoice.png)
+ ![](Develop/demo/hw9demo.gif)
 
 
-2 Shows user input default option.
+2 Shows user input generated README.
 
-![](Develop/pictures/2HW9userinputshowsdefaultoption.png)
-
-
-3 Shows all user inputs complete.
-
-![](Develop/pictures/3HW9userinputshowsallinputscomplete.png)
+![](Develop/demo/hw91.png)
 
 
-4 Shows user input generated README.
+3 Shows preview of user input generated README.
 
-![](Develop/pictures/4HW9userinputshowsuserinputgeneratedreadme.png)
-
-
-5 Shows preview of user input generated README.
-
-![](Develop/pictures/5HW9userinputshowspreviewofuserinputgeneratedreadme.png)
+![](Develop/demo/hw92.png)
